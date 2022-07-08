@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b04e9990-dc32-40cb-9712-0fdbe7aea108" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/scr/src/bola/Bola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/bola/BolaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/carro/CarroMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/contacorrente/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/contacorrente/ConteCorrenteMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/lista5bJardinagem/Jardinagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/lista5bJardinagem/JardinagemMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/lista5bcaixaeletronico/CaixaEletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/lista5bcaixaeletronico/CaixaEletronicoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/pessoa/PessoaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/quadrado/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/quadrado/QuadradoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/retangulo/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/src/retangulo/RetanguloMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BZsy7mQ6T5XVd57puFJze087ET" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.JardinagemMain">
+    <configuration name="CaixaEletronicoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista5bcaixaeletronico.CaixaEletronicoMain" />
+      <module name="scr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista5bcaixaeletronico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarroMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="carro.CarroMain" />
+      <module name="scr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JardinagemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista5bJardinagem.JardinagemMain" />
+      <module name="scr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista5bJardinagem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadradoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quadrado.QuadradoMain" />
+      <module name="scr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quadrado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pessoa.PessoaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pessoa.PessoaMain" />
+      <module name="scr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pessoa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JardinagemMain" />
+        <item itemvalue="Application.CaixaEletronicoMain" />
+        <item itemvalue="Application.pessoa.PessoaMain" />
+        <item itemvalue="Application.QuadradoMain" />
+        <item itemvalue="Application.CarroMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b04e9990-dc32-40cb-9712-0fdbe7aea108" name="Changes" comment="" />
+      <created>1657125192404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657125192404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
